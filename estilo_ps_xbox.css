@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+#ps{
+    display: block;
+    width: 69%;
+    float: left;
+    border-right: 2px solid rgb(11, 167, 240);
+    margin: 5px auto;
+}
+
+#lateral_ps{
+    display: block;
+    width: 29%;
+    float: right;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+#ps p, #lateral_ps p{
+    text-align: justify;
+    padding: 0px 15px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+    text-align: center;
+    margin: 2px 0px;
+}
+
+table{
+    text-align: center;
+    margin: 0px auto;
+}
+
+/* PÁGINA XBOX */
+
+#xb_direita{
+    display: block;
+    float: right;
+    margin: 20px;
+}
+
+#text_1{
+    text-align: justify;
+    margin: 0px 20px;
+}
+
+#xb_esquerda{
+    display: block;
+    float: left;
+    margin: 20px;
+}
+
+#text_2{
+    text-align: justify;
+    margin: 0px 20px;
+}
